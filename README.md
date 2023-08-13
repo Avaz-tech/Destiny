@@ -3,7 +3,7 @@
 
 # Destiny 🤔
 
-## Our Goal
+# Description
 
 In this game, you will be building a choose your own adventure game like Bandersnatch. 
 
